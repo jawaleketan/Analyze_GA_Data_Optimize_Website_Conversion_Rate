@@ -1,0 +1,7 @@
+=== Observations ===
+
+Conversion Rate by Page: The /checkout page has the highest conversion rate at approximately 5.42%, while the /product page has the lowest at approximately 4.92%.
+
+Conversion Rate by Device: Desktops have the highest conversion rate at approximately 5.33%, with mobile devices having the lowest at approximately 5.19%.
+
+Conversion Rate by Traffic Source: Traffic from Facebook CPC has the highest conversion rate at approximately 5.47%, while direct traffic has the lowest at approximately 5.19%.
